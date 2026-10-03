@@ -8,7 +8,7 @@ The projects are independent. You can open any folder without setting up the oth
 
 | # | Project | What it does | Main Java practice | Status |
 |---|---|---|---|---|
-| 01 | [Help Desk Tracker](01-help-desk-tracker) | Create, close, and review support tickets saved between runs. | Classes, records, collections, file I/O | Done |
+| 01 | [Help Desk Tracker](01-help-desk-tracker/README.md) | Create, close, and review support tickets saved between runs. | Classes, records, collections, file I/O | Done |
 | 02 | Pantry Check | Track groceries and show what expires soon. | Dates, sorting, validation | Planned |
 | 03 | Habit Calendar | Record daily habits and calculate streaks. | Maps, dates, small reports | Planned |
 | 04 | Shared Bill Splitter | Split a group bill fairly, including rounding. | Decimal arithmetic, edge cases | Planned |
@@ -42,4 +42,3 @@ Each folder has its own README, source code, and a small test that checks useful
 ## About this portfolio
 
 I built this repository to show steady progress in Java: reading input, modeling data, handling mistakes, saving state, and testing the parts that matter. It is a collection of small completed programs, rather than one large unfinished app.
-
