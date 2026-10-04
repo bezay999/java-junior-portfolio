@@ -2,15 +2,15 @@
 
 This repository is my Java practice portfolio. The goal is to build ten small programs that solve recognizable problems, then make each one easy to run and easy to understand. I am starting with command-line tools because they let me focus on the logic before adding a user interface.
 
-The projects are independent. You can open any folder without setting up the others. I will add them one at a time; the first one is ready now.
+The projects are independent. You can open any folder without setting up the others. I will add them one at a time; the first three are ready now.
 
 ## Projects
 
 | # | Project | What it does | Main Java practice | Status |
 |---|---|---|---|---|
 | 01 | [Help Desk Tracker](01-help-desk-tracker/README.md) | Create, close, and review support tickets saved between runs. | Classes, records, collections, file I/O | Done |
-| 02 | Pantry Check | Track groceries and show what expires soon. | Dates, sorting, validation | Planned |
-| 03 | Habit Calendar | Record daily habits and calculate streaks. | Maps, dates, small reports | Planned |
+| 02 | [Pantry Check](02-pantry-check/README.md) | Track groceries and show what expires soon. | Dates, sorting, validation | Done |
+| 03 | [Habit Calendar](03-habit-calendar/README.md) | Record daily habits and calculate streaks. | Sets, dates, small reports | Done |
 | 04 | Shared Bill Splitter | Split a group bill fairly, including rounding. | Decimal arithmetic, edge cases | Planned |
 | 05 | Event Check-In | Import a guest list and record arrivals. | CSV files, searching, duplicate handling | Planned |
 | 06 | Flashcard Desk | Practice a question deck and revisit missed cards. | Collections, randomization, state | Planned |
@@ -19,9 +19,9 @@ The projects are independent. You can open any folder without setting up the oth
 | 09 | Weather Notes | Store daily observations and compare weeks. | Data modeling, aggregation | Planned |
 | 10 | Job Search Board | Track applications, interviews, and follow-ups. | Enums, dates, filtering | Planned |
 
-These are ideas for the portfolio, not ten finished apps. I may adjust a planned idea if I find a better problem to solve while building it.
+The projects marked Planned are ideas, not finished apps. I may adjust an idea if I find a better problem to solve while building it.
 
-## Start with project 01
+## Try a project
 
 You need JDK 17 or newer. From the repository root:
 
@@ -33,7 +33,7 @@ java -cp out Main add "Laptop won't start"
 java -cp out Main list
 ```
 
-The [project README](01-help-desk-tracker/README.md) has every command and explains where tickets are stored.
+Each project README has its own commands and explains where its data is stored.
 
 ## How I organize the code
 
