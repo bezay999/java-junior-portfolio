@@ -1,0 +1,5 @@
+2026-10-13T10:00:00Z INFO Server started
+2026-10-13T10:01:00Z WARN Slow response
+2026-10-13T10:02:00Z ERROR Connection timed out
+2026-10-13T10:03:00Z ERROR Connection timed out
+2026-10-13T10:04:00Z ERROR Invalid request

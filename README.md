@@ -2,7 +2,7 @@
 
 This repository is my Java practice portfolio. The goal is to build ten small programs that solve recognizable problems, then make each one easy to run and easy to understand. I am starting with command-line tools because they let me focus on the logic before adding a user interface.
 
-The projects are independent. You can open any folder without setting up the others. I will add them one at a time; the first three are ready now.
+The projects are independent. You can open any folder without setting up the others. All ten are ready to try.
 
 ## Projects
 
@@ -11,15 +11,15 @@ The projects are independent. You can open any folder without setting up the oth
 | 01 | [Help Desk Tracker](01-help-desk-tracker/README.md) | Create, close, and review support tickets saved between runs. | Classes, records, collections, file I/O | Done |
 | 02 | [Pantry Check](02-pantry-check/README.md) | Track groceries and show what expires soon. | Dates, sorting, validation | Done |
 | 03 | [Habit Calendar](03-habit-calendar/README.md) | Record daily habits and calculate streaks. | Sets, dates, small reports | Done |
-| 04 | Shared Bill Splitter | Split a group bill fairly, including rounding. | Decimal arithmetic, edge cases | Planned |
-| 05 | Event Check-In | Import a guest list and record arrivals. | CSV files, searching, duplicate handling | Planned |
-| 06 | Flashcard Desk | Practice a question deck and revisit missed cards. | Collections, randomization, state | Planned |
-| 07 | Log Lens | Read an application log and summarize errors. | Text parsing, streams, reporting | Planned |
-| 08 | Route Planner | Find a route through a small network of stops. | Graphs, breadth-first search | Planned |
-| 09 | Weather Notes | Store daily observations and compare weeks. | Data modeling, aggregation | Planned |
-| 10 | Job Search Board | Track applications, interviews, and follow-ups. | Enums, dates, filtering | Planned |
+| 04 | [Shared Bill Splitter](04-shared-bill-splitter/README.md) | Split a group bill fairly, including rounding. | Decimal arithmetic, edge cases | Done |
+| 05 | [Event Check-In](05-event-check-in/README.md) | Import a guest list and record arrivals. | CSV files, searching, duplicate handling | Done |
+| 06 | [Flashcard Desk](06-flashcard-desk/README.md) | Practice a question deck and revisit missed cards. | Collections, randomization, state | Done |
+| 07 | [Log Lens](07-log-lens/README.md) | Read an application log and summarize errors. | Text parsing, streams, reporting | Done |
+| 08 | [Route Planner](08-route-planner/README.md) | Find a route through a small network of stops. | Graphs, breadth-first search | Done |
+| 09 | [Weather Notes](09-weather-notes/README.md) | Store daily observations and compare weeks. | Data modeling, aggregation | Done |
+| 10 | [Job Search Board](10-job-search-board/README.md) | Track applications, interviews, and follow-ups. | Enums, dates, filtering | Done |
 
-The projects marked Planned are ideas, not finished apps. I may adjust an idea if I find a better problem to solve while building it.
+Each project has its own README and a small test. The programs are deliberately small: the point is to show the problem-solving and Java basics clearly, not to hide them behind a big framework.
 
 ## Try a project
 

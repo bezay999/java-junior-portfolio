@@ -1,0 +1,7 @@
+from,to
+Library,Park
+Park,Station
+Library,Museum
+Museum,Market
+Market,Station
+Park,Cafe
